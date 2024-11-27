@@ -6,10 +6,12 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -19,4 +21,8 @@
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
