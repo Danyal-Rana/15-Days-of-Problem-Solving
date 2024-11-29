@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0015-3sum](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0015-3sum](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0088-merge-sorted-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0242-valid-anagram) |
+| [0088-merge-sorted-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0088-merge-sorted-array) |
 ## Trie
 |  |
 | ------- |
