@@ -22,6 +22,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0242-valid-anagram](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0088-merge-sorted-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
@@ -82,4 +85,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
