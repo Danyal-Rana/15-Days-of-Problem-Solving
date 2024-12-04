@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0151-reverse-words-in-a-string](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0724-find-pivot-index](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0066-plus-one](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0066-plus-one) |
 | [0013-roman-to-integer](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
