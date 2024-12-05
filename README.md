@@ -37,6 +37,7 @@
 | [0066-plus-one](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0189-rotate-array) |
+| [0053-maximum-subarray](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0053-maximum-subarray](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0053-maximum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0169-majority-element) |
+| [0053-maximum-subarray](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0053-maximum-subarray) |
 ## Counting
 |  |
 | ------- |
