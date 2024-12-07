@@ -13,6 +13,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0189-rotate-array) |
 | [0027-remove-element](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0053-maximum-subarray](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0027-remove-element](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0027-remove-element) |
 | [0213-house-robber-ii](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0213-house-robber-ii) |
+| [0075-sort-colors](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0088-merge-sorted-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0389-find-the-difference) |
+| [0075-sort-colors](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0075-sort-colors) |
 ## Trie
 |  |
 | ------- |
