@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0189-rotate-array) |
 | [0027-remove-element](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0075-sort-colors) |
+| [1019-squares-of-a-sorted-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0027-remove-element](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0027-remove-element) |
 | [0213-house-robber-ii](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0213-house-robber-ii) |
 | [0075-sort-colors](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0075-sort-colors) |
+| [1019-squares-of-a-sorted-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [0169-majority-element](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0075-sort-colors](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0075-sort-colors) |
+| [1019-squares-of-a-sorted-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 ## Trie
 |  |
 | ------- |
