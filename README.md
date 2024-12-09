@@ -15,6 +15,7 @@
 | [0027-remove-element](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
+| [0443-string-compression](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0387-first-unique-character-in-a-string](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/Danyal-Rana/15-Days-of-Problem-Solving/tree/master/0443-string-compression) |
 ## Array
 |  |
 | ------- |
